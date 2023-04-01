@@ -7,6 +7,7 @@ library(tools)
 #conda activate delfi2
 # 4 - script for gc correction of each 100 kb compartment
 #usage: Rscript combine_bin_compartment.r -l ../DELFI/DELFI_Introm.R -d 04_bins_100kb
+#in docker test: Rscript combine_bin_compartment.r -l iDELFI.R -d 04_bins_100kb
 
 option_list = list(
     make_option(c("-l", "--lib"), type="character", default="DELFI/DELFI_Introm.R", 

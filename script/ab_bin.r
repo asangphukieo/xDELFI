@@ -7,6 +7,8 @@ library(biovizBase)
 
 #conda activate delfi2
 #usage: Rscript ab_bin.r -g hg19 -l /home/apiwat/hdd/DELFI/delfi_scripts/DELFI/DELFI_Introm.R
+#in docker test: Rscript ab_bin.r -g hg19 -l iDELFI.R
+
 
 option_list = list(
     make_option(c("-g", "--hg_version"), type="character", default="hg19", 

@@ -5,6 +5,7 @@
 library("optparse")
 #conda activate delfi2
 #usage: Rscript meta_data.r -l ../DELFI/DELFI_Introm.R -f 06_combine_5mb_bin/bins_5mbcompartments.rds -t ../metadata_Cristiano_2019_update.csv
+#in docker test: Rscript meta_data.r -l iDELFI.R -f 06_combine_5mb_bin/bins_5mbcompartments.rds -t ../sample_data/metadata_all_2235.csv
 
 option_list = list(
     make_option(c("-l", "--lib"), type="character", default="DELFI/DELFI_Introm.R", 

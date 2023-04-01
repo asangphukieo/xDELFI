@@ -2,6 +2,8 @@
 library("optparse")
 #conda activate delfi2
 #usage: Rscript build_feature.r -l ../DELFI/DELFI_Introm.R -f 06_combine_5mb_bin/bins_5mbcompartments.rds -b 06_02_combine_chr/bins_chr_compartments.rds -t 07_summarize_data/summary_data.csv.rds
+#in docker test: Rscript build_feature.r -l iDELFI.R -f 06_combine_5mb_bin/bins_5mbcompartments.rds -b 06_02_combine_chr/bins_chr_compartments.rds -t 07_summarize_data/summary_data.csv.rds
+
 
 option_list = list(
     make_option(c("-l", "--lib"), type="character", default="DELFI/DELFI_Introm.R", 

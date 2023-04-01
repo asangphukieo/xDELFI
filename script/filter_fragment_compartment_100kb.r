@@ -3,6 +3,7 @@ library("optparse")
 library(tools)
 #conda activate delfi2
 #usage: Rscript filter_fragment_compartment_100kb.r -g hg19 -a AB.rds -l ../DELFI/DELFI_Introm.R -f work/cf/7764111756397e5bd3d1375a80d7fa/02_fragmentGC/EE88211.hg19.frag.tsv_frags.rds
+#in docker test: Rscript filter_fragment_compartment_100kb.r -g hg19 -a AB.rds -l iDELFI.R -f 02_fragmentGC/EE88147_frags.rds
 
 #A/B compartments
 option_list = list(
@@ -14,7 +15,7 @@ option_list = list(
               help="path to function library", metavar="character"),                   
     make_option(c("-f", "--file"), type="character", default="hg19", 
               help="input file after fragmentGC step [default= %default]", metavar="character"), 
-    make_option(c("-b", "--filter"), type="character", default="hg19", 
+    make_option(c("-b", "--filter"), type="character", default="filters.hg19.rda", 
               help="filter file from AB step [default= %default]", metavar="character")                                                              
 ); 
  

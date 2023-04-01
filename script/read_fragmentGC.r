@@ -1,7 +1,9 @@
 #!/usr/bin/Rscript
 library("optparse")
+library(tools)
 #conda activate delfi2
 #usage: Rscript read_fragmentGC.r -f ../INPUT/EE88147.hg19.frag.tsv.bgz -l ../DELFI/DELFI_Introm.R -o ./02_fragmentGC -e Agilent_Human_Exon_V6_UTRs
+#in docker test: Rscript read_fragmentGC.r -f ../sample_data/EE88147.hg19.frag.tsv.bgz -l iDELFI.R -o ./02_fragmentGC -e Agilent_Human_Exon_V6_UTRs
 
 option_list = list(
     make_option(c("-f", "--file"), type="character", default=NULL, 
@@ -30,12 +32,14 @@ source(opt$lib) # # Use exon regions
 exome_capture=opt$exome_capture
 tmp_out=opt$out
 hg=opt$hg_version
+i=opt$file
 
 print(path_input)
+id=strsplit(basename(file_path_sans_ext(i))[1],"[.]")[[1]][1]
 read_fragmentGC(source_GAlignmentPairs=NULL,
     source_file=path_input,
     outdir=tmp_out,
-    id=file_path_sans_ext(path_input),
+    id=id,
     hg_version=hg,
     exome_version=exome_capture)
 

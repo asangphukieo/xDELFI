@@ -7,6 +7,7 @@ library(tools)
 #conda activate delfi2
 
 #usage: Rscript bin_5mb.r -l ../DELFI/DELFI_Introm.R -f 05_combine_100kb_bin/bins_100kbcompartments.rds
+#in docker test: Rscript bin_5mb.r -l iDELFI.R -f 05_combine_100kb_bin/bins_100kbcompartments.rds
 
 option_list = list(
     make_option(c("-l", "--lib"), type="character", default="DELFI/DELFI_Introm.R", 
