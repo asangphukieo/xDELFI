@@ -5,6 +5,10 @@ library(tools)
 #usage: Rscript read_fragmentGC.r -f ../INPUT/EE88147.hg19.frag.tsv.bgz -l ../DELFI/DELFI_Introm.R -o ./02_fragmentGC -e Agilent_Human_Exon_V6_UTRs
 #in docker test: Rscript read_fragmentGC.r -f ../sample_data/EE88147.hg19.frag.tsv.bgz -l iDELFI.R -o ./02_fragmentGC -e Agilent_Human_Exon_V6_UTRs
 
+Error in function (type, msg, asError = TRUE)  : SSL connection timeout
+Calls: read_fragmentGC -> getURL -> curlPerform -> <Anonymous> -> fun
+Execution halted
+
 option_list = list(
     make_option(c("-f", "--file"), type="character", default=NULL, 
               help="path to input files", metavar="character"),

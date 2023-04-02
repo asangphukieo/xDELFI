@@ -534,7 +534,7 @@ combine_bin_compartment <- function(bindir="./bins_100kb",outfile="bins_100kbcom
     tib.list <- tib.list %>% dplyr::select(-matches("X"))
     cat("# DELFI : combine_bin_compartment : Save tib.list in file bins_100kbcompartments.rds \n")
 
-    tib.list$"id"=gsub("_count_100kb_bin_100kb","",tib.list$"id")
+    tib.list$"id"=gsub("_frags_count_100kb_bin_100kb","",tib.list$"id")
     saveRDS(tib.list, outfile)
     tib.list
 }
@@ -1155,9 +1155,9 @@ build.feature.FSR_FSD.var <- function(bins_5mb="06_combine_5mb_bin/bins_5mbcompa
     features.FSR_FSD.var
 }
 
-bins_5mb="06_combine_5mb_bin/bins_5mbcompartments.rds"
-bins_chr="06_02_combine_chr/bins_chr_compartments.rds"
-summary_tibble="07_summarize_data/summary_data.csv.rds"
+#bins_5mb="06_combine_5mb_bin/bins_5mbcompartments.rds"
+#bins_chr="06_02_combine_chr/bins_chr_compartments.rds"
+#summary_tibble="07_summarize_data/summary_data.csv.rds"
 #use in original script from Github
 build.feature.FSR_FSD.cov <- function(bins_5mb="06_combine_5mb_bin/bins_5mbcompartments.rds",bins_chr="06_02_combine_chr/bins_chr_compartments.rds",summary_tibble="summary_tibble.rds",outfile="feature.csv"){
     df.fr3 <- readRDS(bins_5mb)
