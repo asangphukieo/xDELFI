@@ -1,4 +1,9 @@
 # Nextflow Pipeline to generate DELFI and xDELFI feature
+
+xDELFI is new machine-learning model for cancer detection using whole exome-based cfDNA profiles.<br>
+This repository provides feature extraction process. Firstly, we applied three fragment size thresholds, which are short (100-150), medium (150-220), and long (>220), to count the number of fragments in each 100k bin along the genome. Secondly, overall fragment coverage is counted by summation of all fragment size in each 100k bin. Thirdly, loess regression-based approach is applied to account for GC content bias for each 100kb bin. Then, the 100k bins were combined into 5Mb bins (504 bins) for each chromosome arm. Next, the fragment size distribution (FSD) of 5bp bin in range of 100 to 220bp (24 bins) in each chromosome arm (39 arms) was calculated, and loess regression-based approach is applied to account for GC content bias for each bin. The total number of features including fragment length coverage (short, medium, long: 504x3), overall coverage (cov: 504), and FSD (bin: 24x39) is 2,952.
+
+
 ## Installation
 1. Install docker (follows https://github.com/asangphukieo/CMUTEAM_NF_pipeline)
 2. Install Nextflow (e.g. by anaconda: conda install -c bioconda nextflow)
