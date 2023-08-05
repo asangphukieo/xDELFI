@@ -1,0 +1,722 @@
+Row.names	sample.name.finaleDB	sample.disease	Age.at.Diagnosis	Gender	Stage	Paper
+EE85723	TBR917.rep2	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85724	TBR924	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85726	TBR922.rep2	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85727	TBR916.rep1	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85730	T99	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85731	TBR917.rep1	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85732	TBR922.rep1	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85733	TBR916.rep2	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85737	TBR912	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85739	TBR910	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85741	TBR911.rep1	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85743	TBR914.rep2	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85746	TBR919.rep1	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85749	TBR921	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85750	TBR911.rep2	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85752	TBR914.rep1	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85753	TBR919.rep2	Colorectal cancer	NA	NA	NA	Kun Sun
+EE85756	C330	Healthy	NA	NA	NA	Peiyong Jiang
+EE85757	C347	Healthy	NA	NA	NA	Peiyong Jiang
+EE85759	H342	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85761	H232	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85765	H200	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85769	HOT426	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85770	C329	Healthy	NA	NA	NA	Peiyong Jiang
+EE85772	H221	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85773	H256	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85774	HOT386	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85775	C354	Healthy	NA	NA	NA	Peiyong Jiang
+EE85777	HOT414	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85781	H264	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85784	C311	Healthy	NA	NA	NA	Peiyong Jiang
+EE85785	H214	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85786	H263	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85787	C316	Healthy	NA	NA	NA	Peiyong Jiang
+EE85788	H269	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85789	H420	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85790	HOT413	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85791	C359	Healthy	NA	NA	NA	Peiyong Jiang
+EE85793	H226	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85794	H321	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85795	C353	Healthy	NA	NA	NA	Peiyong Jiang
+EE85798	H377	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85799	H300	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85802	H270	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85805	H433	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85807	H235	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85810	HOT432	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85813	H246	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85814	H341	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85816	C333	Healthy	NA	NA	NA	Peiyong Jiang
+EE85821	H203	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85823	H209	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85827	H199	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85830	C357	Healthy	NA	NA	NA	Peiyong Jiang
+EE85831	H228	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85832	H352	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85835	HOT425	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85839	H283	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85842	C312	Healthy	NA	NA	NA	Peiyong Jiang
+EE85843	H210	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85845	H267	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85846	HOT417	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85847	H424	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85849	HOT410	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85851	H423	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85854	C315	Healthy	NA	NA	NA	Peiyong Jiang
+EE85856	H217	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85857	HOT422	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85858	HOT428	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85860	C327	Healthy	NA	NA	NA	Peiyong Jiang
+EE85861	C350	Healthy	NA	NA	NA	Peiyong Jiang
+EE85862	H258	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85863	H225	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85864	H252	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85867	HOT403	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85869	H390	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85870	H374	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85872	H402	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85878	C343	Healthy	NA	NA	NA	Peiyong Jiang
+EE85880	H206	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85881	GM1100	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85883	H301	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85885	H196	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85888	H234	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85891	H249	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85892	H344	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85893	HOT393	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85898	C360	Healthy	NA	NA	NA	Peiyong Jiang
+EE85899	H262	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85900	H381	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85901	HOT412	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85903	H421	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85904	C325	Healthy	NA	NA	NA	Peiyong Jiang
+EE85905	C352	Healthy	NA	NA	NA	Peiyong Jiang
+EE85907	H250	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85908	C358	Healthy	NA	NA	NA	Peiyong Jiang
+EE85911	H419	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85916	HOT427	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85918	C355	Healthy	NA	NA	NA	Peiyong Jiang
+EE85921	H220	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85925	H218	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85927	H315	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85928	C310	Healthy	NA	NA	NA	Peiyong Jiang
+EE85935	H239	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85936	C346	Healthy	NA	NA	NA	Peiyong Jiang
+EE85937	C331	Healthy	NA	NA	NA	Peiyong Jiang
+EE85938	HOT394	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85939	H435	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85941	C309	Healthy	NA	NA	NA	Peiyong Jiang
+EE85943	H292	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85946	H195	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85947	H278	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85949	H296	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85953	H272	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85959	C348	Healthy	NA	NA	NA	Peiyong Jiang
+EE85961	H216	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85962	H261	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85963	C314	Healthy	NA	NA	NA	Peiyong Jiang
+EE85964	H311	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85965	H285	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85968	H253	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85969	H323	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85970	C351	Healthy	NA	NA	NA	Peiyong Jiang
+EE85971	C326	Healthy	NA	NA	NA	Peiyong Jiang
+EE85973	H223	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85974	H254	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85978	H324	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85980	C356	Healthy	NA	NA	NA	Peiyong Jiang
+EE85982	H266	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85983	H288	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85985	C313	Healthy	NA	NA	NA	Peiyong Jiang
+EE85987	C332	Healthy	NA	NA	NA	Peiyong Jiang
+EE85988	C345	Healthy	NA	NA	NA	Peiyong Jiang
+EE85990	HOT397	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85991	H230	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85992	H247	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE85997	H291	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE86000	H275	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE86002	H436	Liver cancer	NA	NA	NA	Peiyong Jiang
+EE86217	BH01	Healthy	NA	NA	NA	Snyder
+EE86226	IC02	Ovarian cancer	NA	NA	NA	Snyder
+EE86228	IC04	Breast cancer	NA	NA	NA	Snyder
+EE86229	IC05	Lung cancer	NA	NA	NA	Snyder
+EE86230	IC06	Lung cancer	NA	NA	NA	Snyder
+EE86231	IC08	Uterine cancer	NA	NA	NA	Snyder
+EE86232	IC09	Ovarian cancer	NA	NA	NA	Snyder
+EE86233	IC10	Lung cancer	NA	NA	NA	Snyder
+EE86234	IC11	Colorectal cancer	NA	NA	NA	Snyder
+EE86235	IC12	Breast cancer	NA	NA	NA	Snyder
+EE86236	IC13	Prostate cancer	NA	NA	NA	Snyder
+EE86237	IC14	Head and neck cancer	NA	NA	NA	Snyder
+EE86238	IC15	Lung cancer	NA	NA	NA	Snyder
+EE86239	IC16	Bladder cancer	NA	NA	NA	Snyder
+EE86240	IC17	Liver cancer	NA	NA	NA	Snyder
+EE86241	IC18	Kidney cancer	NA	NA	NA	Snyder
+EE86242	IC19	Testicular cancer	NA	NA	NA	Snyder
+EE86243	IC20	Lung cancer	NA	NA	NA	Snyder
+EE86244	IC21	Pancreatic cancer	NA	NA	NA	Snyder
+EE86245	IC22	Lung cancer	NA	NA	NA	Snyder
+EE86246	IC23	Liver cancer	NA	NA	NA	Snyder
+EE86247	IC24	Pancreatic cancer	NA	NA	NA	Snyder
+EE86248	IC25	Pancreatic cancer	NA	NA	NA	Snyder
+EE86249	IC26	Prostate cancer	NA	NA	NA	Snyder
+EE86250	IC27	Uterine cancer	NA	NA	NA	Snyder
+EE86251	IC28	Lung cancer	NA	NA	NA	Snyder
+EE86252	IC29	Head and neck cancer	NA	NA	NA	Snyder
+EE86253	IC30	Esophageal cancer	NA	NA	NA	Snyder
+EE86254	IC32	Lung cancer	NA	NA	NA	Snyder
+EE86255	IC33	Colorectal cancer	NA	NA	NA	Snyder
+EE86256	IC34	Breast cancer	NA	NA	NA	Snyder
+EE86257	IC35	Breast cancer	NA	NA	NA	Snyder
+EE86258	IC36	Liver cancer	NA	NA	NA	Snyder
+EE86259	IC37	Colorectal cancer	NA	NA	NA	Snyder
+EE86260	IC38	Bladder cancer	NA	NA	NA	Snyder
+EE86261	IC39	Kidney cancer	NA	NA	NA	Snyder
+EE86262	IC40	Prostate cancer	NA	NA	NA	Snyder
+EE86263	IC41	Testicular cancer	NA	NA	NA	Snyder
+EE86264	IC42	Lung cancer	NA	NA	NA	Snyder
+EE86266	IC44	Esophageal cancer	NA	NA	NA	Snyder
+EE86267	IC46	Breast cancer	NA	NA	NA	Snyder
+EE86268	IC47	Pancreatic cancer	NA	NA	NA	Snyder
+EE86269	IC48	Breast cancer	NA	NA	NA	Snyder
+EE86270	IC49	Pancreatic cancer	NA	NA	NA	Snyder
+EE86271	IC50	Pancreatic cancer	NA	NA	NA	Snyder
+EE86272	IC51	Pancreatic cancer	NA	NA	NA	Snyder
+EE86273	IC52	Pancreatic cancer	NA	NA	NA	Snyder
+EE86275	IH02	Healthy	NA	NA	NA	Snyder
+EE86276	IH03	Healthy	NA	NA	NA	Snyder
+EE87786	CGPLPA114	Bile duct cancer	NA	F	II	Cristiano
+EE87787	CGPLPA115	Bile duct cancer	NA	M	IV	Cristiano
+EE87788	CGPLPA117	Bile duct cancer	NA	M	II	Cristiano
+EE87789	CGPLPA118	Bile duct cancer	68	F	I	Cristiano
+EE87790	CGPLPA122	Bile duct cancer	62	F	II	Cristiano
+EE87791	CGPLPA124	Bile duct cancer	83	F	II	Cristiano
+EE87792	CGPLPA125	Bile duct cancer	58	M	II	Cristiano
+EE87793	CGPLPA126	Bile duct cancer	60	M	II	Cristiano
+EE87794	CGPLPA127	Bile duct cancer	71	F	IV	Cristiano
+EE87795	CGPLPA128	Bile duct cancer	67	M	II	Cristiano
+EE87796	CGPLPA129	Bile duct cancer	56	F	II	Cristiano
+EE87797	CGPLPA130	Bile duct cancer	82	F	II	Cristiano
+EE87798	CGPLPA131	Bile duct cancer	71	M	II	Cristiano
+EE87799	CGPLPA134	Bile duct cancer	68	M	II	Cristiano
+EE87800	CGPLPA135	Bile duct cancer	67	F	I	Cristiano
+EE87801	CGPLPA136	Bile duct cancer	69	F	II	Cristiano
+EE87802	CGPLPA137	Bile duct cancer	NA	M	II	Cristiano
+EE87803	CGPLPA139	Bile duct cancer	NA	M	IV	Cristiano
+EE87804	CGPLPA140	Bile duct cancer	52	M	II	Cristiano
+EE87805	CGPLPA141	Bile duct cancer	68	F	II	Cristiano
+EE87806	CGPLPA155	Bile duct cancer	NA	F	II	Cristiano
+EE87807	CGPLPA165	Bile duct cancer	42	M	I	Cristiano
+EE87809	CGPLPA184	Bile duct cancer	75	F	II	Cristiano
+EE87810	CGPLPA187	Bile duct cancer	67	F	II	Cristiano
+EE87811	CGPLBR100	Breast cancer	44	F	III	Cristiano
+EE87812	CGPLBR101	Breast cancer	46	F	II	Cristiano
+EE87813	CGPLBR102	Breast cancer	47	F	II	Cristiano
+EE87814	CGPLBR103	Breast cancer	48	F	II	Cristiano
+EE87815	CGPLBR104	Breast cancer	68	F	II	Cristiano
+EE87816	CGPLBR12	Breast cancer	NA	F	III	Cristiano
+EE87817	CGPLBR18	Breast cancer	NA	F	III	Cristiano
+EE87818	CGPLBR23	Breast cancer	53	F	II	Cristiano
+EE87819	CGPLBR24	Breast cancer	53	F	II	Cristiano
+EE87820	CGPLBR28	Breast cancer	59	F	III	Cristiano
+EE87821	CGPLBR30	Breast cancer	61	F	II	Cristiano
+EE87822	CGPLBR31	Breast cancer	54	F	II	Cristiano
+EE87823	CGPLBR32	Breast cancer	NA	F	II	Cristiano
+EE87824	CGPLBR33	Breast cancer	47	F	II	Cristiano
+EE87825	CGPLBR34	Breast cancer	60	F	II	Cristiano
+EE87826	CGPLBR35	Breast cancer	43	F	II	Cristiano
+EE87827	CGPLBR36	Breast cancer	36	F	II	Cristiano
+EE87828	CGPLBR37	Breast cancer	58	F	II	Cristiano
+EE87829	CGPLBR38	Breast cancer	54	F	I	Cristiano
+EE87830	CGPLBR40	Breast cancer	66	F	III	Cristiano
+EE87831	CGPLBR41	Breast cancer	51	F	III	Cristiano
+EE87832	CGPLBR45	Breast cancer	57	F	II	Cristiano
+EE87833	CGPLBR46	Breast cancer	54	F	III	Cristiano
+EE87834	CGPLBR47	Breast cancer	54	F	I	Cristiano
+EE87835	CGPLBR48	Breast cancer	47	F	II	Cristiano
+EE87836	CGPLBR49	Breast cancer	37	F	II	Cristiano
+EE87837	CGPLBR50	Breast cancer	51	F	I	Cristiano
+EE87838	CGPLBR51	Breast cancer	53	F	II	Cristiano
+EE87839	CGPLBR52	Breast cancer	68	F	III	Cristiano
+EE87840	CGPLBR55	Breast cancer	53	F	III	Cristiano
+EE87841	CGPLBR56	Breast cancer	56	F	II	Cristiano
+EE87842	CGPLBR57	Breast cancer	54	F	III	Cristiano
+EE87843	CGPLBR59	Breast cancer	42	F	I	Cristiano
+EE87844	CGPLBR60	Breast cancer	61	F	II	Cristiano
+EE87845	CGPLBR61	Breast cancer	67	F	II	Cristiano
+EE87846	CGPLBR63	Breast cancer	48	F	II	Cristiano
+EE87847	CGPLBR65	Breast cancer	50	F	II	Cristiano
+EE87848	CGPLBR68	Breast cancer	64	F	III	Cristiano
+EE87849	CGPLBR69	Breast cancer	43	F	II	Cristiano
+EE87850	CGPLBR70	Breast cancer	60	F	II	Cristiano
+EE87851	CGPLBR71	Breast cancer	65	F	II	Cristiano
+EE87852	CGPLBR72	Breast cancer	67	F	II	Cristiano
+EE87853	CGPLBR73	Breast cancer	60	F	II	Cristiano
+EE87854	CGPLBR76	Breast cancer	53	F	II	Cristiano
+EE87855	CGPLBR81	Breast cancer	54	F	II	Cristiano
+EE87856	CGPLBR82	Breast cancer	70	F	I 	Cristiano
+EE87857	CGPLBR83	Breast cancer	53	F	II	Cristiano
+EE87858	CGPLBR84	Breast cancer	NA	F	III	Cristiano
+EE87859	CGPLBR87	Breast cancer	80	F	II	Cristiano
+EE87860	CGPLBR88	Breast cancer	48	F	II	Cristiano
+EE87861	CGPLBR90	Breast cancer	51	F	II	Cristiano
+EE87862	CGPLBR91	Breast cancer	62	F	III	Cristiano
+EE87863	CGPLBR92	Breast cancer	58	F	II	Cristiano
+EE87864	CGPLBR93	Breast cancer	59	F	II	Cristiano
+EE87865	CGCRC291	Colorectal cancer	69	F	IV	Cristiano
+EE87866	CGCRC292	Colorectal cancer	51	M	IV	Cristiano
+EE87867	CGCRC293	Colorectal cancer	55	M	IV	Cristiano
+EE87868	CGCRC294	Colorectal cancer	67	F	II	Cristiano
+EE87869	CGCRC296	Colorectal cancer	76	F	II	Cristiano
+EE87870	CGCRC299	Colorectal cancer	71	M	I	Cristiano
+EE87871	CGCRC300	Colorectal cancer	65	M	I	Cristiano
+EE87872	CGCRC301	Colorectal cancer	76	F	I	Cristiano
+EE87873	CGCRC302	Colorectal cancer	73	M	II	Cristiano
+EE87875	CGCRC305	Colorectal cancer	83	F	II	Cristiano
+EE87876	CGCRC306	Colorectal cancer	80	F	II	Cristiano
+EE87877	CGCRC307	Colorectal cancer	78	F	II	Cristiano
+EE87878	CGCRC308	Colorectal cancer	72	F	III	Cristiano
+EE87879	CGCRC311	Colorectal cancer	59	M	I	Cristiano
+EE87880	CGCRC315	Colorectal cancer	74	M	III	Cristiano
+EE87881	CGCRC316	Colorectal cancer	80	M	III	Cristiano
+EE87882	CGCRC317	Colorectal cancer	74	M	III	Cristiano
+EE87883	CGCRC318	Colorectal cancer	81	M	I	Cristiano
+EE87884	CGCRC319	Colorectal cancer	80	F	III	Cristiano
+EE87885	CGCRC320	Colorectal cancer	73	F	I	Cristiano
+EE87886	CGCRC321	Colorectal cancer	68	M	I	Cristiano
+EE87887	CGCRC333	Colorectal cancer	NA	F	IV	Cristiano
+EE87888	CGCRC336	Colorectal cancer	NA	M	IV	Cristiano
+EE87889	CGCRC338	Colorectal cancer	NA	F	IV	Cristiano
+EE87890	CGCRC341	Colorectal cancer	NA	F	IV	Cristiano
+EE87891	CGCRC342	Colorectal cancer	NA	M	IV	Cristiano
+EE87892	CGPLPA113	Duodenal cancer	71	M	I	Cristiano
+EE87893	CGST102	Gastric cancer	76	F	II	Cristiano
+EE87894	CGST11	Gastric cancer	49	M	IV	Cristiano
+EE87895	CGST110	Gastric cancer	77	M	III	Cristiano
+EE87896	CGST114	Gastric cancer	65	M	III	Cristiano
+EE87897	CGST13	Gastric cancer	72	F	II	Cristiano
+EE87898	CGST131	Gastric cancer	63	M	III	Cristiano
+EE87899	CGST141	Gastric cancer	33	F	III	Cristiano
+EE87900	CGST16	Gastric cancer	78	M	III	Cristiano
+EE87901	CGST18	Gastric cancer	56	M	II	Cristiano
+EE87902	CGST21	Gastric cancer	39	M	II	Cristiano
+EE87903	CGST26	Gastric cancer	51	M	IV	Cristiano
+EE87904	CGST28	Gastric cancer	55	M	X	Cristiano
+EE87905	CGST30	Gastric cancer	64	F	III	Cristiano
+EE87906	CGST32	Gastric cancer	67	M	II	Cristiano
+EE87907	CGST33	Gastric cancer	61	M	I	Cristiano
+EE87908	CGST38	Gastric cancer	71	F	0	Cristiano
+EE87909	CGST39	Gastric cancer	51	M	IV	Cristiano
+EE87910	CGST41	Gastric cancer	66	F	IV	Cristiano
+EE87911	CGST45	Gastric cancer	41	F	II	Cristiano
+EE87912	CGST47	Gastric cancer	74	F	I	Cristiano
+EE87913	CGST48	Gastric cancer	62	M	IV	Cristiano
+EE87914	CGST53	Gastric cancer	70	M	0	Cristiano
+EE87915	CGST58	Gastric cancer	58	M	III	Cristiano
+EE87916	CGST67	Gastric cancer	69	M	I	Cristiano
+EE87917	CGST77	Gastric cancer	70	M	IV	Cristiano
+EE87918	CGST80	Gastric cancer	58	M	III	Cristiano
+EE87919	CGST81	Gastric cancer	64	F	I	Cristiano
+EE87920	CGH14	Healthy	NA	M	Healthy	Cristiano
+EE87921	CGH15	Healthy	NA	F	Healthy	Cristiano
+EE87922	CGPLH189	Healthy	74	M	Healthy	Cristiano
+EE87923	CGPLH190	Healthy	67	M	Healthy	Cristiano
+EE87924	CGPLH192	Healthy	74	M	Healthy	Cristiano
+EE87925	CGPLH193	Healthy	72	F	Healthy	Cristiano
+EE87926	CGPLH194	Healthy	75	F	Healthy	Cristiano
+EE87927	CGPLH196	Healthy	64	M	Healthy	Cristiano
+EE87928	CGPLH197	Healthy	74	M	Healthy	Cristiano
+EE87929	CGPLH198	Healthy	66	M	Healthy	Cristiano
+EE87931	CGPLH200	Healthy	51	M	Healthy	Cristiano
+EE87932	CGPLH201	Healthy	68	F	Healthy	Cristiano
+EE87933	CGPLH202	Healthy	73	M	Healthy	Cristiano
+EE87934	CGPLH203	Healthy	59	M	Healthy	Cristiano
+EE87935	CGPLH205	Healthy	68	F	Healthy	Cristiano
+EE87936	CGPLH208	Healthy	75	F	Healthy	Cristiano
+EE87937	CGPLH209	Healthy	74	M	Healthy	Cristiano
+EE87938	CGPLH210	Healthy	75	M	Healthy	Cristiano
+EE87939	CGPLH211	Healthy	75	F	Healthy	Cristiano
+EE87940	CGPLH300	Healthy	72	F	Healthy	Cristiano
+EE87941	CGPLH307	Healthy	53	M	Healthy	Cristiano
+EE87942	CGPLH308	Healthy	60	M	Healthy	Cristiano
+EE87943	CGPLH309	Healthy	61	F	Healthy	Cristiano
+EE87944	CGPLH310	Healthy	55	F	Healthy	Cristiano
+EE87945	CGPLH311	Healthy	50	M	Healthy	Cristiano
+EE87946	CGPLH314	Healthy	59	M	Healthy	Cristiano
+EE87947	CGPLH314_Rep	Healthy	59	M	Healthy	Cristiano
+EE87948	CGPLH315	Healthy	59	F	Healthy	Cristiano
+EE87949	CGPLH316	Healthy	64	M	Healthy	Cristiano
+EE87950	CGPLH317	Healthy	53	F	Healthy	Cristiano
+EE87951	CGPLH319	Healthy	60	F	Healthy	Cristiano
+EE87952	CGPLH320	Healthy	75	F	Healthy	Cristiano
+EE87953	CGPLH322	Healthy	53	F	Healthy	Cristiano
+EE87954	CGPLH324	Healthy	59	F	Healthy	Cristiano
+EE87955	CGPLH325	Healthy	54	M	Healthy	Cristiano
+EE87956	CGPLH326	Healthy	67	F	Healthy	Cristiano
+EE87957	CGPLH327	Healthy	50	M	Healthy	Cristiano
+EE87958	CGPLH328	Healthy	68	F	Healthy	Cristiano
+EE87959	CGPLH328_Rep	Healthy	68	F	Healthy	Cristiano
+EE87960	CGPLH329	Healthy	59	M	Healthy	Cristiano
+EE87961	CGPLH330	Healthy	75	M	Healthy	Cristiano
+EE87962	CGPLH331	Healthy	55	M	Healthy	Cristiano
+EE87963	CGPLH331_Rep	Healthy	55	M	Healthy	Cristiano
+EE87964	CGPLH333	Healthy	60	M	Healthy	Cristiano
+EE87965	CGPLH335	Healthy	74	M	Healthy	Cristiano
+EE87966	CGPLH336	Healthy	53	F	Healthy	Cristiano
+EE87967	CGPLH337	Healthy	53	F	Healthy	Cristiano
+EE87968	CGPLH338	Healthy	75	M	Healthy	Cristiano
+EE87969	CGPLH339	Healthy	70	M	Healthy	Cristiano
+EE87970	CGPLH340	Healthy	62	M	Healthy	Cristiano
+EE87971	CGPLH341	Healthy	61	F	Healthy	Cristiano
+EE87972	CGPLH342	Healthy	49	F	Healthy	Cristiano
+EE87973	CGPLH343	Healthy	58	M	Healthy	Cristiano
+EE87974	CGPLH344	Healthy	50	M	Healthy	Cristiano
+EE87975	CGPLH345	Healthy	55	F	Healthy	Cristiano
+EE87976	CGPLH346	Healthy	50	F	Healthy	Cristiano
+EE87977	CGPLH35	Healthy	48	F	Healthy	Cristiano
+EE87978	CGPLH350	Healthy	65	M	Healthy	Cristiano
+EE87979	CGPLH351	Healthy	71	M	Healthy	Cristiano
+EE87980	CGPLH352	Healthy	50	F	Healthy	Cristiano
+EE87981	CGPLH353	Healthy	50	F	Healthy	Cristiano
+EE87982	CGPLH354	Healthy	50	F	Healthy	Cristiano
+EE87983	CGPLH355	Healthy	70	M	Healthy	Cristiano
+EE87984	CGPLH356	Healthy	50	F	Healthy	Cristiano
+EE87985	CGPLH357	Healthy	52	F	Healthy	Cristiano
+EE87986	CGPLH358	Healthy	55	M	Healthy	Cristiano
+EE87987	CGPLH36	Healthy	36	F	Healthy	Cristiano
+EE87988	CGPLH360	Healthy	60	M	Healthy	Cristiano
+EE87989	CGPLH361	Healthy	50	M	Healthy	Cristiano
+EE87990	CGPLH362	Healthy	72	F	Healthy	Cristiano
+EE87991	CGPLH363	Healthy	68	F	Healthy	Cristiano
+EE87992	CGPLH364	Healthy	50	F	Healthy	Cristiano
+EE87993	CGPLH365	Healthy	68	F	Healthy	Cristiano
+EE87994	CGPLH366	Healthy	61	M	Healthy	Cristiano
+EE87995	CGPLH367	Healthy	50	F	Healthy	Cristiano
+EE87996	CGPLH368	Healthy	50	M	Healthy	Cristiano
+EE87997	CGPLH369	Healthy	55	F	Healthy	Cristiano
+EE87998	CGPLH369_Rep	Healthy	55	F	Healthy	Cristiano
+EE87999	CGPLH37	Healthy	39	F	Healthy	Cristiano
+EE88000	CGPLH370	Healthy	50	F	Healthy	Cristiano
+EE88001	CGPLH371	Healthy	57	F	Healthy	Cristiano
+EE88002	CGPLH380	Healthy	53	F	Healthy	Cristiano
+EE88003	CGPLH381	Healthy	56	F	Healthy	Cristiano
+EE88004	CGPLH382	Healthy	53	F	Healthy	Cristiano
+EE88005	CGPLH383	Healthy	62	F	Healthy	Cristiano
+EE88006	CGPLH384	Healthy	50	M	Healthy	Cristiano
+EE88007	CGPLH385	Healthy	69	M	Healthy	Cristiano
+EE88008	CGPLH386	Healthy	62	M	Healthy	Cristiano
+EE88009	CGPLH386_Rep	Healthy	62	M	Healthy	Cristiano
+EE88010	CGPLH387	Healthy	71	F	Healthy	Cristiano
+EE88011	CGPLH388	Healthy	57	F	Healthy	Cristiano
+EE88012	CGPLH389	Healthy	73	F	Healthy	Cristiano
+EE88013	CGPLH390	Healthy	50	F	Healthy	Cristiano
+EE88014	CGPLH391	Healthy	58	M	Healthy	Cristiano
+EE88015	CGPLH391_Rep	Healthy	58	M	Healthy	Cristiano
+EE88016	CGPLH392	Healthy	57	F	Healthy	Cristiano
+EE88017	CGPLH393	Healthy	54	M	Healthy	Cristiano
+EE88018	CGPLH394	Healthy	55	F	Healthy	Cristiano
+EE88019	CGPLH395	Healthy	56	F	Healthy	Cristiano
+EE88020	CGPLH395_Rep	Healthy	56	F	Healthy	Cristiano
+EE88021	CGPLH396	Healthy	50	M	Healthy	Cristiano
+EE88022	CGPLH398	Healthy	68	M	Healthy	Cristiano
+EE88023	CGPLH399	Healthy	62	F	Healthy	Cristiano
+EE88024	CGPLH400	Healthy	64	M	Healthy	Cristiano
+EE88025	CGPLH400_Rep	Healthy	64	M	Healthy	Cristiano
+EE88026	CGPLH401	Healthy	50	M	Healthy	Cristiano
+EE88027	CGPLH401_Rep	Healthy	50	M	Healthy	Cristiano
+EE88028	CGPLH402	Healthy	57	F	Healthy	Cristiano
+EE88029	CGPLH403	Healthy	64	M	Healthy	Cristiano
+EE88030	CGPLH404	Healthy	50	M	Healthy	Cristiano
+EE88031	CGPLH405	Healthy	50	F	Healthy	Cristiano
+EE88032	CGPLH406	Healthy	57	M	Healthy	Cristiano
+EE88033	CGPLH407	Healthy	75	F	Healthy	Cristiano
+EE88034	CGPLH408	Healthy	50	F	Healthy	Cristiano
+EE88035	CGPLH409	Healthy	53	M	Healthy	Cristiano
+EE88036	CGPLH410	Healthy	52	M	Healthy	Cristiano
+EE88037	CGPLH411	Healthy	50	F	Healthy	Cristiano
+EE88038	CGPLH412	Healthy	53	F	Healthy	Cristiano
+EE88039	CGPLH413	Healthy	54	F	Healthy	Cristiano
+EE88040	CGPLH414	Healthy	56	M	Healthy	Cristiano
+EE88041	CGPLH415	Healthy	59	M	Healthy	Cristiano
+EE88042	CGPLH416	Healthy	58	F	Healthy	Cristiano
+EE88043	CGPLH417	Healthy	70	M	Healthy	Cristiano
+EE88044	CGPLH418	Healthy	70	F	Healthy	Cristiano
+EE88045	CGPLH419	Healthy	65	F	Healthy	Cristiano
+EE88046	CGPLH42	Healthy	54	F	Healthy	Cristiano
+EE88047	CGPLH420	Healthy	51	M	Healthy	Cristiano
+EE88048	CGPLH422	Healthy	68	F	Healthy	Cristiano
+EE88049	CGPLH423	Healthy	54	M	Healthy	Cristiano
+EE88050	CGPLH424	Healthy	53	F	Healthy	Cristiano
+EE88051	CGPLH425	Healthy	53	F	Healthy	Cristiano
+EE88052	CGPLH426	Healthy	68	M	Healthy	Cristiano
+EE88053	CGPLH427	Healthy	68	M	Healthy	Cristiano
+EE88054	CGPLH428	Healthy	50	F	Healthy	Cristiano
+EE88055	CGPLH429	Healthy	63	F	Healthy	Cristiano
+EE88057	CGPLH430	Healthy	69	F	Healthy	Cristiano
+EE88058	CGPLH431	Healthy	59	F	Healthy	Cristiano
+EE88059	CGPLH432	Healthy	59	F	Healthy	Cristiano
+EE88060	CGPLH434	Healthy	59	M	Healthy	Cristiano
+EE88062	CGPLH436	Healthy	50	F	Healthy	Cristiano
+EE88063	CGPLH437	Healthy	56	M	Healthy	Cristiano
+EE88064	CGPLH438	Healthy	69	M	Healthy	Cristiano
+EE88065	CGPLH439	Healthy	50	F	Healthy	Cristiano
+EE88066	CGPLH440	Healthy	72	M	Healthy	Cristiano
+EE88067	CGPLH441	Healthy	50	F	Healthy	Cristiano
+EE88068	CGPLH442	Healthy	59	F	Healthy	Cristiano
+EE88069	CGPLH443	Healthy	52	F	Healthy	Cristiano
+EE88070	CGPLH444	Healthy	60	F	Healthy	Cristiano
+EE88071	CGPLH445	Healthy	53	F	Healthy	Cristiano
+EE88072	CGPLH446	Healthy	51	F	Healthy	Cristiano
+EE88073	CGPLH447	Healthy	50	F	Healthy	Cristiano
+EE88074	CGPLH448	Healthy	51	F	Healthy	Cristiano
+EE88075	CGPLH449	Healthy	51	F	Healthy	Cristiano
+EE88076	CGPLH45	Healthy	58	F	Healthy	Cristiano
+EE88077	CGPLH450	Healthy	50	F	Healthy	Cristiano
+EE88078	CGPLH451	Healthy	54	F	Healthy	Cristiano
+EE88079	CGPLH452	Healthy	69	M	Healthy	Cristiano
+EE88080	CGPLH453	Healthy	53	F	Healthy	Cristiano
+EE88081	CGPLH455	Healthy	55	F	Healthy	Cristiano
+EE88082	CGPLH455_Rep	Healthy	55	F	Healthy	Cristiano
+EE88083	CGPLH456	Healthy	54	F	Healthy	Cristiano
+EE88084	CGPLH457	Healthy	54	F	Healthy	Cristiano
+EE88085	CGPLH458	Healthy	52	F	Healthy	Cristiano
+EE88086	CGPLH459	Healthy	50	F	Healthy	Cristiano
+EE88087	CGPLH46	Healthy	35	F	Healthy	Cristiano
+EE88088	CGPLH460	Healthy	50	F	Healthy	Cristiano
+EE88089	CGPLH463	Healthy	53	F	Healthy	Cristiano
+EE88090	CGPLH464	Healthy	50	F	Healthy	Cristiano
+EE88091	CGPLH465	Healthy	50	F	Healthy	Cristiano
+EE88092	CGPLH466	Healthy	50	F	Healthy	Cristiano
+EE88093	CGPLH466_Rep	Healthy	50	F	Healthy	Cristiano
+EE88094	CGPLH467	Healthy	50	F	Healthy	Cristiano
+EE88095	CGPLH468	Healthy	53	M	Healthy	Cristiano
+EE88096	CGPLH469	Healthy	50	F	Healthy	Cristiano
+EE88097	CGPLH47	Healthy	50	F	Healthy	Cristiano
+EE88098	CGPLH470	Healthy	68	F	Healthy	Cristiano
+EE88099	CGPLH471	Healthy	70	F	Healthy	Cristiano
+EE88100	CGPLH472	Healthy	69	F	Healthy	Cristiano
+EE88101	CGPLH473	Healthy	62	M	Healthy	Cristiano
+EE88102	CGPLH474	Healthy	63	M	Healthy	Cristiano
+EE88103	CGPLH475	Healthy	67	F	Healthy	Cristiano
+EE88104	CGPLH476	Healthy	65	F	Healthy	Cristiano
+EE88105	CGPLH477	Healthy	61	F	Healthy	Cristiano
+EE88106	CGPLH478	Healthy	51	F	Healthy	Cristiano
+EE88107	CGPLH479	Healthy	52	M	Healthy	Cristiano
+EE88108	CGPLH48	Healthy	38	F	Healthy	Cristiano
+EE88109	CGPLH480	Healthy	50	F	Healthy	Cristiano
+EE88110	CGPLH481	Healthy	53	F	Healthy	Cristiano
+EE88111	CGPLH482	Healthy	50	M	Healthy	Cristiano
+EE88112	CGPLH483	Healthy	66	M	Healthy	Cristiano
+EE88113	CGPLH484	Healthy	72	M	Healthy	Cristiano
+EE88114	CGPLH485	Healthy	50	F	Healthy	Cristiano
+EE88115	CGPLH486	Healthy	50	F	Healthy	Cristiano
+EE88116	CGPLH487	Healthy	50	M	Healthy	Cristiano
+EE88117	CGPLH488	Healthy	50	F	Healthy	Cristiano
+EE88118	CGPLH49	Healthy	39	F	Healthy	Cristiano
+EE88119	CGPLH490	Healthy	50	F	Healthy	Cristiano
+EE88120	CGPLH491	Healthy	50	F	Healthy	Cristiano
+EE88121	CGPLH492	Healthy	51	F	Healthy	Cristiano
+EE88122	CGPLH493	Healthy	64	M	Healthy	Cristiano
+EE88123	CGPLH494	Healthy	53	F	Healthy	Cristiano
+EE88124	CGPLH495	Healthy	50	F	Healthy	Cristiano
+EE88125	CGPLH496	Healthy	74	M	Healthy	Cristiano
+EE88126	CGPLH497	Healthy	68	F	Healthy	Cristiano
+EE88127	CGPLH497_Rep	Healthy	68	F	Healthy	Cristiano
+EE88128	CGPLH498	Healthy	54	F	Healthy	Cristiano
+EE88129	CGPLH499	Healthy	52	F	Healthy	Cristiano
+EE88130	CGPLH50	Healthy	55	F	Healthy	Cristiano
+EE88131	CGPLH500	Healthy	51	F	Healthy	Cristiano
+EE88132	CGPLH501	Healthy	50	F	Healthy	Cristiano
+EE88133	CGPLH502	Healthy	53	F	Healthy	Cristiano
+EE88134	CGPLH503	Healthy	67	M	Healthy	Cristiano
+EE88135	CGPLH504	Healthy	57	F	Healthy	Cristiano
+EE88136	CGPLH504_Rep	Healthy	57	F	Healthy	Cristiano
+EE88137	CGPLH505	Healthy	50	F	Healthy	Cristiano
+EE88138	CGPLH506	Healthy	51	F	Healthy	Cristiano
+EE88139	CGPLH507	Healthy	56	M	Healthy	Cristiano
+EE88140	CGPLH508	Healthy	54	F	Healthy	Cristiano
+EE88141	CGPLH508_Rep	Healthy	54	F	Healthy	Cristiano
+EE88142	CGPLH509	Healthy	60	M	Healthy	Cristiano
+EE88143	CGPLH51	Healthy	48	F	Healthy	Cristiano
+EE88144	CGPLH510	Healthy	67	M	Healthy	Cristiano
+EE88145	CGPLH511	Healthy	75	M	Healthy	Cristiano
+EE88146	CGPLH512	Healthy	52	M	Healthy	Cristiano
+EE88147	CGPLH513	Healthy	57	M	Healthy	Cristiano
+EE88148	CGPLH514	Healthy	55	F	Healthy	Cristiano
+EE88149	CGPLH515	Healthy	68	F	Healthy	Cristiano
+EE88150	CGPLH516	Healthy	65	F	Healthy	Cristiano
+EE88151	CGPLH517	Healthy	54	F	Healthy	Cristiano
+EE88152	CGPLH517_Rep	Healthy	54	F	Healthy	Cristiano
+EE88153	CGPLH518	Healthy	50	F	Healthy	Cristiano
+EE88154	CGPLH519	Healthy	54	M	Healthy	Cristiano
+EE88155	CGPLH52	Healthy	40	F	Healthy	Cristiano
+EE88156	CGPLH520	Healthy	51	F	Healthy	Cristiano
+EE88157	CGPLH54	Healthy	47	F	Healthy	Cristiano
+EE88158	CGPLH55	Healthy	46	F	Healthy	Cristiano
+EE88159	CGPLH56	Healthy	42	F	Healthy	Cristiano
+EE88160	CGPLH57	Healthy	39	F	Healthy	Cristiano
+EE88161	CGPLH59	Healthy	34	F	Healthy	Cristiano
+EE88162	CGPLH625	Healthy	53	F	Healthy	Cristiano
+EE88163	CGPLH625_Rep	Healthy	53	F	Healthy	Cristiano
+EE88164	CGPLH626	Healthy	50	F	Healthy	Cristiano
+EE88165	CGPLH63	Healthy	47	F	Healthy	Cristiano
+EE88166	CGPLH639	Healthy	50	F	Healthy	Cristiano
+EE88167	CGPLH64	Healthy	55	F	Healthy	Cristiano
+EE88168	CGPLH640	Healthy	50	F	Healthy	Cristiano
+EE88169	CGPLH642	Healthy	54	F	Healthy	Cristiano
+EE88170	CGPLH643	Healthy	55	F	Healthy	Cristiano
+EE88171	CGPLH644	Healthy	50	F	Healthy	Cristiano
+EE88172	CGPLH646	Healthy	50	F	Healthy	Cristiano
+EE88173	CGPLH75	Healthy	46	F	Healthy	Cristiano
+EE88174	CGPLH76	Healthy	53	F	Healthy	Cristiano
+EE88175	CGPLH77	Healthy	46	F	Healthy	Cristiano
+EE88176	CGPLH78	Healthy	34	F	Healthy	Cristiano
+EE88177	CGPLH79	Healthy	37	F	Healthy	Cristiano
+EE88178	CGPLH80	Healthy	37	F	Healthy	Cristiano
+EE88179	CGPLH81	Healthy	54	F	Healthy	Cristiano
+EE88180	CGPLH82	Healthy	38	F	Healthy	Cristiano
+EE88181	CGPLH83	Healthy	60	F	Healthy	Cristiano
+EE88182	CGPLH84	Healthy	45	F	Healthy	Cristiano
+EE88183	CGPLLU13_D28	Lung cancer	72	F	IV	Cristiano
+EE88184	CGPLLU13_D5	Lung cancer	72	F	IV	Cristiano
+EE88185	CGPLLU13_D91	Lung cancer	72	F	IV	Cristiano
+EE88186	CGPLLU13_D-2	Lung cancer	72	F	IV	Cristiano
+EE88187	CGPLLU14_D0.33	Lung cancer	55	F	IV	Cristiano
+EE88188	CGPLLU14_D7	Lung cancer	55	F	IV	Cristiano
+EE88189	CGPLLU14_D0	Lung cancer	55	F	IV	Cristiano
+EE88190	CGPLLU14_D-16	Lung cancer	55	F	IV	Cristiano
+EE88191	CGPLLU14_D-3	Lung cancer	55	F	IV	Cristiano
+EE88192	CGPLLU14_D-38	Lung cancer	55	F	IV	Cristiano
+EE88193	CGPLLU144	Lung cancer	52	M	II	Cristiano
+EE88194	CGPLLU147	Lung cancer	60	M	III	Cristiano
+EE88195	CGPLLU161	Lung cancer	41	F	II	Cristiano
+EE88196	CGPLLU162	Lung cancer	38	M	II	Cristiano
+EE88197	CGPLLU163	Lung cancer	66	M	II	Cristiano
+EE88198	CGPLLU165	Lung cancer	68	F	II	Cristiano
+EE88199	CGPLLU168	Lung cancer	70	F	I	Cristiano
+EE88200	CGPLLU169	Lung cancer	64	M	I	Cristiano
+EE88201	CGPLLU175	Lung cancer	47	M	I	Cristiano
+EE88202	CGPLLU176	Lung cancer	58	M	I	Cristiano
+EE88203	CGPLLU177	Lung cancer	45	M	II	Cristiano
+EE88204	CGPLLU180	Lung cancer	57	M	I	Cristiano
+EE88205	CGPLLU198	Lung cancer	49	F	I	Cristiano
+EE88206	CGPLLU202	Lung cancer	68	M	I	Cristiano
+EE88207	CGPLLU203	Lung cancer	66	M	II	Cristiano
+EE88208	CGPLLU205	Lung cancer	65	M	II	Cristiano
+EE88209	CGPLLU206	Lung cancer	55	M	III	Cristiano
+EE88210	CGPLLU207	Lung cancer	60	F	II	Cristiano
+EE88211	CGPLLU208	Lung cancer	56	F	II	Cristiano
+EE88212	CGPLLU209	Lung cancer	65	M	II	Cristiano
+EE88213	CGPLLU244_D6	Lung cancer	66	F	IV	Cristiano
+EE88214	CGPLLU244_D62	Lung cancer	66	F	IV	Cristiano
+EE88215	CGPLLU244_D-1	Lung cancer	66	F	IV	Cristiano
+EE88216	CGPLLU244_D-7	Lung cancer	66	F	IV	Cristiano
+EE88217	CGPLLU245_D21	Lung cancer	49	M	IV	Cristiano
+EE88219	CGPLLU245_D0	Lung cancer	49	M	IV	Cristiano
+EE88220	CGPLLU245_D-32	Lung cancer	49	M	IV	Cristiano
+EE88221	CGPLLU246_D42	Lung cancer	65	F	IV	Cristiano
+EE88222	CGPLLU246_D9	Lung cancer	65	F	IV	Cristiano
+EE88223	CGPLLU246_D0	Lung cancer	65	F	IV	Cristiano
+EE88224	CGPLLU246_D-21	Lung cancer	65	F	IV	Cristiano
+EE88225	CGPLLU264_D27	Lung cancer	84	M	IV	Cristiano
+EE88226	CGPLLU264_D6	Lung cancer	84	M	IV	Cristiano
+EE88227	CGPLLU264_D69	Lung cancer	84	M	IV	Cristiano
+EE88228	CGPLLU264_D-1	Lung cancer	84	M	IV	Cristiano
+EE88229	CGPLLU265_D3	Lung cancer	71	F	IV	Cristiano
+EE88230	CGPLLU265_D7	Lung cancer	71	F	IV	Cristiano
+EE88231	CGPLLU265_D84	Lung cancer	71	F	IV	Cristiano
+EE88232	CGPLLU265_D0	Lung cancer	71	F	IV	Cristiano
+EE88233	CGPLLU266_D16	Lung cancer	78	M	IV	Cristiano
+EE88234	CGPLLU266_D328	Lung cancer	78	M	IV	Cristiano
+EE88235	CGPLLU266_D83	Lung cancer	78	M	IV	Cristiano
+EE88236	CGPLLU266_D0	Lung cancer	78	M	IV	Cristiano
+EE88237	CGPLLU267_D34	Lung cancer	55	F	IV	Cristiano
+EE88238	CGPLLU267_D90	Lung cancer	55	F	IV	Cristiano
+EE88239	CGPLLU267_D-1	Lung cancer	55	F	IV	Cristiano
+EE88240	CGPLLU269_D28	Lung cancer	52	F	IV	Cristiano
+EE88241	CGPLLU269_D9	Lung cancer	52	F	IV	Cristiano
+EE88242	CGPLLU269_D0	Lung cancer	52	F	IV	Cristiano
+EE88243	CGPLLU271_D104	Lung cancer	73	M	IV	Cristiano
+EE88244	CGPLLU271_D20	Lung cancer	73	M	IV	Cristiano
+EE88245	CGPLLU271_D259	Lung cancer	73	M	IV	Cristiano
+EE88246	CGPLLU271_D6	Lung cancer	73	M	IV	Cristiano
+EE88247	CGPLLU271_D0	Lung cancer	73	M	IV	Cristiano
+EE88248	CGPLLU43_D27	Lung cancer	57	F	IV	Cristiano
+EE88249	CGPLLU43_D6	Lung cancer	57	F	IV	Cristiano
+EE88250	CGPLLU43_D83	Lung cancer	57	F	IV	Cristiano
+EE88251	CGPLLU43_D-1	Lung cancer	57	F	IV	Cristiano
+EE88252	CGPLLU86_D0.5	Lung cancer	55	M	IV	Cristiano
+EE88253	CGPLLU86_D17	Lung cancer	55	M	IV	Cristiano
+EE88254	CGPLLU86_D7	Lung cancer	55	M	IV	Cristiano
+EE88255	CGPLLU86_D0	Lung cancer	55	M	IV	Cristiano
+EE88256	CGPLLU88_D297	Lung cancer	59	M	IV	Cristiano
+EE88257	CGPLLU88_D7	Lung cancer	59	M	IV	Cristiano
+EE88258	CGPLLU88_D0	Lung cancer	59	M	IV	Cristiano
+EE88259	CGPLLU89_D22	Lung cancer	54	F	IV	Cristiano
+EE88260	CGPLLU89_D7	Lung cancer	54	F	IV	Cristiano
+EE88261	CGPLLU89_D0	Lung cancer	54	F	IV	Cristiano
+EE88262	CGPLOV11	Ovarian cancer	51	F	IV	Cristiano
+EE88263	CGPLOV12	Ovarian cancer	45	F	I	Cristiano
+EE88264	CGPLOV13	Ovarian cancer	62	F	IV	Cristiano
+EE88265	CGPLOV15	Ovarian cancer	54	F	III	Cristiano
+EE88266	CGPLOV16	Ovarian cancer	40	F	III	Cristiano
+EE88267	CGPLOV19	Ovarian cancer	52	F	II	Cristiano
+EE88268	CGPLOV20	Ovarian cancer	52	F	II	Cristiano
+EE88269	CGPLOV21	Ovarian cancer	51	M	IV	Cristiano
+EE88270	CGPLOV22	Ovarian cancer	64	F	III	Cristiano
+EE88271	CGPLOV23	Ovarian cancer	47	F	I	Cristiano
+EE88272	CGPLOV24	Ovarian cancer	14	F	I	Cristiano
+EE88273	CGPLOV25	Ovarian cancer	18	F	I	Cristiano
+EE88274	CGPLOV26	Ovarian cancer	35	F	I	Cristiano
+EE88275	CGPLOV28	Ovarian cancer	63	F	I	Cristiano
+EE88276	CGPLOV31	Ovarian cancer	45	F	III	Cristiano
+EE88277	CGPLOV32	Ovarian cancer	53	F	I	Cristiano
+EE88278	CGPLOV37	Ovarian cancer	40	F	I	Cristiano
+EE88279	CGPLOV38	Ovarian cancer	46	F	I	Cristiano
+EE88280	CGPLOV40	Ovarian cancer	53	F	IV	Cristiano
+EE88281	CGPLOV41	Ovarian cancer	57	F	IV	Cristiano
+EE88282	CGPLOV42	Ovarian cancer	52	F	I	Cristiano
+EE88283	CGPLOV43	Ovarian cancer	30	F	I	Cristiano
+EE88284	CGPLOV44	Ovarian cancer	69	F	I	Cristiano
+EE88285	CGPLOV46	Ovarian cancer	58	F	I	Cristiano
+EE88286	CGPLOV47	Ovarian cancer	41	F	I	Cristiano
+EE88287	CGPLOV48	Ovarian cancer	52	F	I	Cristiano
+EE88288	CGPLOV49	Ovarian cancer	68	F	III	Cristiano
+EE88289	CGPLOV50	Ovarian cancer	30	F	III	Cristiano
+EE88290	CGPLPA112	Pancreatic cancer	58	M	II	Cristiano
+EE88291	CGPLPA14	Pancreatic cancer	68	M	II	Cristiano
+EE88292	CGPLPA15	Pancreatic cancer	70	F	II	Cristiano
+EE88293	CGPLPA156	Pancreatic cancer	73	F	II	Cristiano
+EE88294	CGPLPA17	Pancreatic cancer	65	M	II	Cristiano
+EE88295	CGPLPA23	Pancreatic cancer	58	F	II	Cristiano
+EE88296	CGPLPA25	Pancreatic cancer	69	F	II	Cristiano
+EE88297	CGPLPA26	Pancreatic cancer	64	M	II	Cristiano
+EE88298	CGPLPA28	Pancreatic cancer	79	F	II	Cristiano
+EE88299	CGPLPA33	Pancreatic cancer	67	F	II	Cristiano
+EE88300	CGPLPA34	Pancreatic cancer	73	M	II	Cristiano
+EE88301	CGPLPA37	Pancreatic cancer	67	F	II	Cristiano
+EE88302	CGPLPA38	Pancreatic cancer	65	M	II	Cristiano
+EE88303	CGPLPA39	Pancreatic cancer	67	F	II	Cristiano
+EE88304	CGPLPA40	Pancreatic cancer	64	M	II	Cristiano
+EE88305	CGPLPA42	Pancreatic cancer	73	M	II	Cristiano
+EE88306	CGPLPA46	Pancreatic cancer	59	F	II	Cristiano
+EE88307	CGPLPA47	Pancreatic cancer	67	M	II	Cristiano
+EE88308	CGPLPA48	Pancreatic cancer	72	F	I	Cristiano
+EE88309	CGPLPA52	Pancreatic cancer	63	M	II	Cristiano
+EE88310	CGPLPA53	Pancreatic cancer	46	M	I	Cristiano
+EE88311	CGPLPA58	Pancreatic cancer	74	F	II	Cristiano
+EE88312	CGPLPA59	Pancreatic cancer	59	F	II	Cristiano
+EE88313	CGPLPA67	Pancreatic cancer	55	M	III	Cristiano
+EE88314	CGPLPA69	Pancreatic cancer	70	M	I	Cristiano
+EE88315	CGPLPA71	Pancreatic cancer	64	M	II	Cristiano
+EE88316	CGPLPA74	Pancreatic cancer	71	F	II	Cristiano
+EE88317	CGPLPA76	Pancreatic cancer	69	M	II	Cristiano
+EE88318	CGPLPA85	Pancreatic cancer	77	F	II	Cristiano
+EE88319	CGPLPA86	Pancreatic cancer	66	M	II	Cristiano
+EE88320	CGPLPA92	Pancreatic cancer	72	M	II	Cristiano
+EE88321	CGPLPA93	Pancreatic cancer	48	M	II	Cristiano
+EE88322	CGPLPA94	Pancreatic cancer	72	F	II	Cristiano
+EE88323	CGPLPA95	Pancreatic cancer	64	F	II	Cristiano
+EE88325	CGPLPA168	Bile duct cancer	58	M	II	Cristiano
